@@ -1,2 +1,2 @@
 # MobileApp
-Criando uma aplicacão com C# e Windows Pocket
+Criando uma aplicacão com  C#, .net compact framework e Windows Pocket
