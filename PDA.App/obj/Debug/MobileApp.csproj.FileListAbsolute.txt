@@ -1,0 +1,4 @@
+C:\Users\Android\Desktop\CSharp\ProjetoPDA\MobileApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Android\Desktop\CSharp\ProjetoPDA\MobileApp\obj\Debug\MobileApp.frmPrincipal.resources
+C:\Users\Android\Desktop\CSharp\ProjetoPDA\MobileApp\obj\Debug\MobileApp.Properties.Resources.resources
+C:\Users\Android\Desktop\CSharp\ProjetoPDA\MobileApp\obj\Debug\MobileApp.csproj.GenerateResource.Cache
